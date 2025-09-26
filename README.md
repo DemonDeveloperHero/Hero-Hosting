@@ -34,9 +34,13 @@ jsPDF – PDF generation (optional library)
 invoicegen/
 │
 ├─ index.html          # Main HTML structure
+
 ├─ style.css           # Styles and themes
+
 ├─ script.js           # App logic and PDF generation
+
 ├─ README.md           # Project documentation
+
 └─ /assets             # Images, logo, icons
 
 🚀 How to Use
