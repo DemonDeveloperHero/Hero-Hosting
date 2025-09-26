@@ -31,8 +31,9 @@ JavaScript (ES6) – Logic & calculations
 jsPDF – PDF generation (optional library)
 
 📁 Folder Structure
+
 invoicegen/
-│
+
 ├─ index.html          # Main HTML structure
 
 ├─ style.css           # Styles and themes
@@ -58,7 +59,6 @@ Click "Generate Invoice" to download a professional PDF.
 
 📸 Demo Screenshot
 
-(Add a screenshot of your UI here once ready)
 
 💡 Future Enhancements (Ideas)
 
