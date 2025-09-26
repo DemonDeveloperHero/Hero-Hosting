@@ -48,7 +48,7 @@ invoicegen/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/invoicegen.git
+git clone https://github.com/DemonDeveloperHero/invoicegen.git
 
 
 Open index.html in your browser.
